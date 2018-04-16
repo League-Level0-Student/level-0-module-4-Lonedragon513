@@ -31,7 +31,7 @@ public class StringMethods1 {
 		int n = Integer.parseInt(qwER);
 		char w = asdf.charAt(0);
 		char q = asdf.charAt(1);
-		char e = asdf.charAt(1);
+		char e = asdf.charAt(2);
 
 		if ( n == 1) {
 			System.out.println(w);
